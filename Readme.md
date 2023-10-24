@@ -3,4 +3,4 @@
 
 https://github.com/ctwyo/zakrivayuschiy-teg-f
 
-ссылка на страницу на githubpages - https://ctwyo.github.io/slozhno-sosredotochitsya/
+ссылка на страницу на githubpages - https://ctwyo.github.io/zakrivayuschiy-teg-f/
