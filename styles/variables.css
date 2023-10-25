@@ -1,15 +1,14 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 
 :root {
-  --main-font-family: 'Inter';
-  --accent-font-family: 'PressStart2P';
+  --main-font-family: 'Inter', sans-serif;
+  --accent-font-family: 'PressStart2P', monospace;
   --main-font-weight: 465;
   --background-color: #000;
   --accent-color: #00cc14;
   --background-gradient-color: #000;
   --background-color-from: #007f0c;
   --background-color-to: #004306;
-  /* --max-inline-size: 696px; */
   --max-inline-size: 700px;
   --heart-sparks: #f00;
   --text-stroke-color: #000;

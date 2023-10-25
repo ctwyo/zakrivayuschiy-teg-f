@@ -15,6 +15,7 @@
   --like-hover-color: #00cc14;
   --second-title-weight: 785;
   --current-color: #00cc14;
+  --background-gradient-color: #000;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,6 +30,7 @@
     --like-hover-color: #00cc14;
     --second-title-weight: 785;
     --current-color: #00cc14;
+    --background-gradient-color: #000;
   }
 }
 
